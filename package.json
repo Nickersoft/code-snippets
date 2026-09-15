@@ -23,7 +23,7 @@
   ],
   "pnpm": {
     "overrides": {
-      "@astrojs/mdx": "4.0.8"
+      "@astrojs/mdx": "4.3.14"
     }
   },
   "devDependencies": {
